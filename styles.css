@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.web {
+  display: flex;
+  align-items: center;
+  width: 1200px;
+  height: 800px;
+}
+
+#logoImage {
+  height: 800px;
+}
+
+.right-section {
+  padding-left: 50px;
+}
+
+.formTags {
+  margin: 0;
+}
+
+.forms {
+  display: flex;
+  gap: 50px;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+html {
+  font-family: "Courier New", Courier, monospace;
+}
